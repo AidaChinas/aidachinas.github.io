@@ -138,7 +138,7 @@ p {
 
 .project-card {
     width: 300px;
-    height: 450px;
+    height: 465px;
     box-shadow: 5px 5px 20px rgb(189, 187, 187);
     margin: 10px;
 }
@@ -164,7 +164,7 @@ p {
 }
 
 .certification-image {
-    margin-top: 25px;
+    margin: 20px;
     width: 400px;
 }
 
